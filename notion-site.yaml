@@ -1,0 +1,10 @@
+notion:
+ databaseId: xxxxxxxxxxxxxxx
+ filterProp: Status
+ filterValue:
+   - Finished
+   - Published
+   - RePublish
+ publishedValue: Published
+markdown:
+ homePath: ./
