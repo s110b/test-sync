@@ -1,7 +1,5 @@
 name: notion2hugo
 on:
- schedule:
-   - cron: "0 */12 * * *"  #每12小时拉取一次
  workflow_dispatch: ~
 jobs:
  sync:
